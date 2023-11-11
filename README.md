@@ -1,0 +1,2 @@
+# pacrats-latex
+Repozytorium latex
